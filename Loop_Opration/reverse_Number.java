@@ -10,7 +10,7 @@ public class reverse_Number {
         int n,rev=0,d=0;
         
         // Prompt the user to enter a digit
-        System.out.print("Enter the Digit : ");
+        System.out.print("Enter the Digit to be reversed : ");
         
         // Read an integer value from the user and store it in the variable n
         n=r.nextInt();

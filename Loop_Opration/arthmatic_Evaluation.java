@@ -9,7 +9,7 @@ public class arthmatic_Evaluation {
         int n, d, p = 1, s = 0;
         
         // Prompt the user to enter a digit
-        System.out.print("Enter the Digit : ");
+        System.out.print("Enter the Digit to find its SUM & Product : ");
         
         // Read the input number from the user
         n = r.nextInt();
