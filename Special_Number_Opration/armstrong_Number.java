@@ -9,7 +9,7 @@ public class armstrong_Number {
         int n, d, p = 1, s = 0, t;
         
         // Prompt the user to enter a digit
-        System.out.print("Enter the Digit : ");
+        System.out.print("Enter the Digit to check Armstrong : ");
         
         // Read the input number from the user
         n = r.nextInt();
