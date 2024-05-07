@@ -9,7 +9,7 @@ public class palindrom_Number {
         int n, rev = 0, d = 0, t;
         
         // Prompt the user to enter a digit
-        System.out.print("Enter the Digit : ");
+        System.out.print("Enter the Digit to check palindrom : ");
         
         // Read the input number
         n = r.nextInt();
